@@ -1,7 +1,6 @@
 # uiproject1
-first test ui project
-+Other notable contributors:
-+
+first test ui project  
+Contributors:
   - Tom
   - Mike
   - Bob
